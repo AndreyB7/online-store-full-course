@@ -1,5 +1,12 @@
-# Не забудь поставить звезду
+# Database
+manually create Postgres DB `online_store`
+update /server/.env DB connection settings
+# Server
+open /server
+run `npm i`
+start `npm run dev`
 
-## npm run dev - запуск сервера
-
-## npm start - запуск клиента
+#client
+open /client
+run `npm i`
+start `npm run dev`
