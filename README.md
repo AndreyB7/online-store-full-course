@@ -5,8 +5,7 @@ update /server/.env DB connection settings
 open /server
 run `npm i`
 start `npm run dev`
-
-#client
+# Client
 open /client
 run `npm i`
 start `npm run dev`
